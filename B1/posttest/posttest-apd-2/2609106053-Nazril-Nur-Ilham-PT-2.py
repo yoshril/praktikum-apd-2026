@@ -1,6 +1,6 @@
 makanan_1 = 15000
 makanan_2 = 16000
-makanan_3 = 19000
+makanan_3 = 19000 
 makanan_4 = 20000
 makanan_5 = 21000
 makanan_6 = 22000
